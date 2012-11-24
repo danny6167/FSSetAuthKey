@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+"""
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
+Daniel Barton <daniel@barteck.com.au>
+http://eternalhavoc.net/site/apps/FSSetAuthKey
+"""
 import os
 from os.path import expanduser
 from Tkinter import *
